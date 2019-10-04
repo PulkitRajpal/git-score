@@ -341,3 +341,4 @@ class Score {
 }
 
 new Score($argv);
+system.out.print('Hello')
